@@ -1,2 +1,0 @@
-# kalkulator
-Created with CodeSandbox
